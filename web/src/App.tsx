@@ -1,5 +1,5 @@
 import './styles/global.css';
-
+import './lib/dayjs'
 
 import { HabitDay } from "./components/HabitDay"
 
